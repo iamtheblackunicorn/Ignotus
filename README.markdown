@@ -8,8 +8,7 @@
 
 ## ABOUT :books:
 
-Having heard about the "awesomeness" of Dart and Flutter I decided to try my hand at some development and write a small game in Dart using Flutter. A guessing game!
-Ignotus is the result of this experiment.
+Because I wanted to write a small and fun game to play on my Mac and on my Android phone, I thought I'd implement the classic number-guessing game that every developer has written at one point or another in Dart and Flutter. Ignotus is that game. Download the latest version from the `Releases` page and enjoy! :)
 
 ## BUILDING :hammer:
 
