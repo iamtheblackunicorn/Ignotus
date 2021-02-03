@@ -52,7 +52,7 @@ into `android/app/`. Now, you can safely build a release APK!
 
 ## DOWNLOAD :inbox_tray:
 
-- GitHub releases: [DOWNLOAD](https://github.com/iamtheblackunicorn/Ignotus/releases)
+- GitHub releases: [DOWNLOAD](https://github.com/iamtheblackunicorn/Ignotus/releases) :joystick:
 
 ## NOTE :scroll:
 
