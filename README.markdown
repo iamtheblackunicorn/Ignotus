@@ -1,5 +1,5 @@
 <p align="center">
- <img src="https://github.com/iamtheblackunicorn/UnicornLauncher/raw/main/assets/images/banner.png"/>
+ <img src="https://github.com/iamtheblackunicorn/Ignotus/raw/main/assets/images/banner.png"/>
 </p>
 
 # IGNOTUS :shushing_face:
