@@ -1,5 +1,5 @@
 <p align="center">
- <img src="https://github.com/iamtheblackunicorn/Ignotus/raw/main/android/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png" width=350/>
+ <img src="https://github.com/iamtheblackunicorn/UnicornLauncher/raw/main/assets/images/banner.png"/>
 </p>
 
 # IGNOTUS :shushing_face:
