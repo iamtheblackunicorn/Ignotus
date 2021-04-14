@@ -13,7 +13,8 @@ Because I wanted to write a small and fun game in Flutter and Dart to play on my
 ## DOWNLOAD :inbox_tray:
 
 - Initial release (1.0.0): 
-  - [Download for Android](https://github.com/iamtheblackunicorn/Ignotus/releases)
+  - [Download for Android](https://github.com/iamtheblackunicorn/Ignotus/releases/download/v.1.0.0/Ignotus-v.1.0.0.apk) (16.3 MB)
+  - [Download for Mac OSX](https://github.com/iamtheblackunicorn/Ignotus/releases/download/v.1.0.0/Ignotus-v.1.0.0.app.zip) (11.8 MB)
 
 ## BUILDING :hammer:
 
