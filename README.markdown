@@ -4,11 +4,16 @@
 
 # IGNOTUS :shushing_face:
 
-*a simple guessing game written in Dart for Android and Mac OSX*
+*a simple guessing game written in Dart for Android and Mac OSX* :shushing_face:
 
 ## ABOUT :books:
 
-Because I wanted to write a small and fun game in Flutter and Dart to play on my Mac and on my Android phone, I thought I'd implement the classic number-guessing game that every developer has written at one point or another. Ignotus is that game. Download the latest version from the `Releases` page and enjoy! :)
+Because I wanted to write a small and fun game in Flutter and Dart to play on my Mac and on my Android phone, I thought I'd implement the classic number-guessing game that every developer has written at one point or another. Ignotus is that game. Enjoy! :)
+
+## DOWNLOAD :inbox_tray:
+
+- Initial release (1.0.0): 
+  - [Download for Android](https://github.com/iamtheblackunicorn/Ignotus/releases)
 
 ## BUILDING :hammer:
 
@@ -49,11 +54,7 @@ into `android/app/`. Now, you can safely build a release APK!
 
 - Run `make build_macosx`.
 
-## DOWNLOAD :inbox_tray:
+## Note :scroll:
 
-- GitHub releases: [DOWNLOAD](https://github.com/iamtheblackunicorn/Ignotus/releases) :joystick:
-
-## NOTE :scroll:
-
-- Ignotus by Alexander Abraham a.k.a *The Black Unicorn*
-- licensed under the MIT license
+- *Ignotus :shushing_face:* by Alexander Abraham :black_heart: a.k.a. *"The Black Unicorn" :unicorn:*
+- Licensed under the MIT license.
